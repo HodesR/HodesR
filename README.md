@@ -5,7 +5,7 @@
 
 💬 - **I speak French , English , Arab**.
 
-📲 - **You can DM me on my discord : Hodés#0007**
+📲 - **You can DM me on my discord : Hodés#9854**
 <br />
 
 ### 🌐 **Languages** :
