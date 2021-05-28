@@ -1,6 +1,10 @@
 
 ### **Hi, Human** 👋
 
+🤖 **Pour inviter mon bot** :
+
+[Chandler](https://discord.com/api/oauth2/authorize?client_id=838545491695763486&permissions=8&scope=bot)
+
 😀 - **My Name is HodesR or Sk7**.                           
 
 💬 - **I speak French , English , Arab**.
