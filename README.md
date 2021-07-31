@@ -41,9 +41,9 @@ const Hodes = require("Exitium/Imperium");
 ─────────────────────────────────────
 </p>
 <p align="center">
-Serveur Communautaire
+h
 <p align="center">
-    <a href="https://discord.gg/Gtk92nhkhg">Discord Sinaloa Serveur</a>
+    <a href="https://">h</a>
 
 <details>
   <summary>Extra</summary>
