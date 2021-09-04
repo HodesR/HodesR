@@ -16,7 +16,7 @@ const Hodes = require("Exitium/Imperium");
     }
 ```
 
-##💻 → Languages:
+## 💻 → Languages:
 <br/> ![HTML](https://img.shields.io/badge/-HTML-020202?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-020202?style=flat-square&logoColor=white&logo=css3) ![JavaScript](https://img.shields.io/badge/-JavaScript-020202?style=flat-square&logoColor=white&logo=javascript) ![nodejs](https://img.shields.io/badge/-NodeJS-020202?style=flat-square&logo=Node.js&logoColor=white) 
 
 
