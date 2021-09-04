@@ -16,13 +16,9 @@ const Hodes = require("Exitium/Imperium");
     }
 ```
 
-## 🌍 → Languages:
-<p>
+##💻 → Languages:
+<br/> ![HTML](https://img.shields.io/badge/-HTML-4C0000?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-4C0000?style=flat-square&logoColor=white&logo=css3) ![JavaScript](https://img.shields.io/badge/-JavaScript-4C0000?style=flat-square&logoColor=white&logo=javascript) ![nodejs](https://img.shields.io/badge/-NodeJS-4C0000?style=flat-square&logo=Node.js&logoColor=white) 
 
-  <img alt="js" src="https://img.shields.io/badge/-Javascript-FFEE00?style=flat-square&logo=javascript&logoColor=black" />
-  <img alt="nodejs" src="https://img.shields.io/badge/-NodeJS-43853D?style=flat-square&logo=Node.js&logoColor=white" />
-
-</p> 
 
 <p align="center">
 ─────────────────────────────────────
@@ -78,13 +74,4 @@ h
 
 </details>
 
-### 🌐 **Languages** :
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-
-<br />
-<br />
 
