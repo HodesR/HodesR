@@ -4,6 +4,7 @@
 <p align="center">
 ──────────────────────────────────────────────────────────────────────────
 </p>
+<img align="center" src="https://discord.c99.nl/widget/theme-5/718113056709935175.png">
 
 <img align='right' src="https://cdn.discordapp.com/attachments/791761561332482071/883534401261170709/a_065220e3f89958e53a4af92836ac632b.gif" width="230" width="230">
 
